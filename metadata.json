@@ -1,0 +1,6 @@
+{
+  "name": "FinAudit AI - Autonomous Financial Analyst & Board Deck Engine",
+  "description": "Autonomous financial analyst agent that investigates financial questions, retrieves grounded SEC and market evidence, executes verified calculations, audits conclusions, and exports audit-ready reports and editable PowerPoint presentations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
